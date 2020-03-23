@@ -76,6 +76,8 @@
 - [哥们，你们的系统架构中为什么要引入消息中间件？](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484149&idx=1&sn=98186297335e13ec7222b3fd43cfae5a&chksm=fba6eaf6ccd163e0c2c3086daa725de224a97814d31e7b3f62dd3ec763b4abbb0689cc7565b0&mpshare=1&scene=1&srcid=0608fz8HKZvYxRhzFqyJ4Isq%23rd)
 - [线上服务宕机时，如何保证数据100%不丢失?](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484204&idx=1&sn=6fc43b0620857b653dbef20693d1c6c6&chksm=fba6eb2fccd16239056e4b52dc0895585292b830bfd2652dea81b7360556fe36aceac0951761&mpshare=1&scene=1&srcid=0608W9lqShQsPrfETC90Acwm%23rd)
 
+### 常见面试问题
+- [Java死锁排查和Java CPU 100% 排查的步骤整理！](https://www.cnblogs.com/aflyun/p/9194104.html)
 
 ### 面经
 - [小公司面试10连挂之后，我拿到了互联网一线大厂offer！](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247484955&idx=1&sn=be39f51e00d78eb7d3a4ae6b7137e62c&chksm=fba6ee18ccd1670ec7dbf62f2c73d65b241cfb6897bac9316981c1e7936e31c1caee5ccee87e&mpshare=1&scene=1&srcid=0608zdpqBAGKWQr6ExuWOvtg%23rd)
